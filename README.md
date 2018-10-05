@@ -7,6 +7,7 @@ git clone git@github.com:helloyongwei/redux-data-flow-demo.git
 运行
 ```
 cd redux-data-flow-demo
+npm i
 npm start
 ```
 
